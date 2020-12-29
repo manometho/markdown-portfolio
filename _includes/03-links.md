@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[My Repo](https://github.com/manometho/markdown-portfolio/pull/3)
